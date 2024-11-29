@@ -1,0 +1,3 @@
+[submodule "Freenove_Starter_Kit"]
+	path = Freenove_Starter_Kit
+	url = https://github.com/Freenove/Freenove_Starter_Kit.git
