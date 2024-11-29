@@ -1,3 +1,4 @@
-[submodule "Freenove_Starter_Kit"]
-	path = Freenove_Starter_Kit
-	url = https://github.com/Freenove/Freenove_Starter_Kit.git
+
+[submodule "Freenove_Basic_Starter_Kit_for_ESP32"]
+	path = Freenove_Basic_Starter_Kit_for_ESP32
+	url = https://github.com/Freenove/Freenove_Basic_Starter_Kit_for_ESP32.git
